@@ -28,3 +28,6 @@ Estou sempre aberto a feedbacks e colaborações! Sinta-se à vontade para entra
 - E-mail: peterkeven2009@gmail.com
 
 Obrigado por visitar meu portfólio!
+
+![image](https://github.com/user-attachments/assets/07b4e77d-842a-4079-a791-48a6bd2a78f9)
+
