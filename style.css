@@ -176,6 +176,7 @@
     
         height: 50vh;
         background: url(img/background.png);
+        background-attachment: fixed;
         background-position: center;
         background-size: cover;
         color: #fff;
@@ -192,6 +193,7 @@
     #github h2 {
     
         padding-top: 20px;
+        text-shadow: #000 0.1em 0.1em 0.1em;
     
     }
     
@@ -248,7 +250,6 @@
         flex-wrap: wrap;
         justify-content: center;
         overflow-x: auto;
-    
     
     }
 
@@ -347,7 +348,8 @@
     #contato {
 
         height: 45vh;
-        background-color: #808080;
+        background: url(img/background.png);
+        background-attachment: fixed;
         color: #fff;
         font-weight: 700;
         text-shadow: #000 0.1em 0.1em 0.1em;
@@ -402,6 +404,7 @@
         background-size: cover;
         color: #fff;
         text-align: center;
+        text-shadow: #000 0.1em 0.1em 0.1em;
 
     }
 
@@ -452,7 +455,13 @@
 
     #ifoodtexto {
 
-        margin-bottom: 50px;
+        margin-bottom: 70px;
+
+    }
+
+    #portifoliotexto {
+
+        margin-bottom: 20px;
 
     }
 
